@@ -12,6 +12,9 @@ MODE="$1"; shift || true
 
 source /opt/ros/humble/setup.bash
 
+# WSL 下默认 FastDDS 传输不可靠(实测订阅端收包率近 0),统一改用 CycloneDDS
+export RMW_IMPLEMENTATION=rmw_cyclonedds_cpp
+
 mkdir -p "$WS"
 # 同步源码(删除多余文件,排除构建产物)
 rsync -a --delete "$SRC_WIN/src/" "$WS/src/"
