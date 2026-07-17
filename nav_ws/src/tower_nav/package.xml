@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+  <name>tower_nav</name>
+  <version>0.1.0</version>
+  <description>风机塔筒爬壁机器人导航定位系统:定位融合、轨迹跟踪、导航控制、任务/异常/状态管理</description>
+  <maintainer email="dev@example.com">tower_nav_dev</maintainer>
+  <license>Apache-2.0</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <depend>rclcpp</depend>
+  <depend>std_msgs</depend>
+  <depend>std_srvs</depend>
+  <depend>sensor_msgs</depend>
+  <depend>geometry_msgs</depend>
+  <depend>nav_msgs</depend>
+  <depend>tf2</depend>
+  <depend>tf2_ros</depend>
+  <depend>tf2_geometry_msgs</depend>
+  <depend>tower_nav_msgs</depend>
+  <depend>yaml-cpp</depend>
+
+  <test_depend>ament_cmake_gtest</test_depend>
+
+  <exec_depend>ros2launch</exec_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>

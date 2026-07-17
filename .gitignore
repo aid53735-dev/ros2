@@ -1,0 +1,19 @@
+# 构建产物
+nav_ws/build/
+nav_ws/install/
+nav_ws/log/
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+
+# 安装日志
+setup/*.log
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
