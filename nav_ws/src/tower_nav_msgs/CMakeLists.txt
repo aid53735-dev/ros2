@@ -12,5 +12,15 @@ find_package(std_msgs REQUIRED)
 find_package(geometry_msgs REQUIRED)
 find_package(builtin_interfaces REQUIRED)
 
-# 接口文件将在 T03 中添加
+rosidl_generate_interfaces(${PROJECT_NAME}
+  "msg/TrajectoryPoint.msg"
+  "msg/TrackingReference.msg"
+  "msg/NavStatus.msg"
+  "msg/Fault.msg"
+  "srv/MissionCommand.srv"
+  "srv/TrajectoryCommand.srv"
+  DEPENDENCIES std_msgs geometry_msgs builtin_interfaces
+)
+
+ament_export_dependencies(rosidl_default_runtime)
 ament_package()

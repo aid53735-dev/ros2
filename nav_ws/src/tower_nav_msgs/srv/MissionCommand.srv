@@ -1,0 +1,13 @@
+# 任务控制命令(对外唯一控制入口 /nav/mission_cmd)
+uint8 START=0
+uint8 PAUSE=1
+uint8 RESUME=2
+uint8 STOP=3
+uint8 RESET=4      # 故障复位
+
+uint8 command
+uint8 traj_id      # 仅 START 时有效:轨迹编号 1~4
+---
+bool success
+string message     # 结果描述(中文)
+uint8 mission_state

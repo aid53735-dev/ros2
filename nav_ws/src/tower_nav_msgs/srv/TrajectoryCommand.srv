@@ -1,0 +1,14 @@
+# 轨迹节点内部控制服务(仅供 Mission Manager 调用,/nav/traj/cmd)
+uint8 LOAD=0       # 加载指定轨迹(仅 IDLE/READY/FINISHED)
+uint8 START=1
+uint8 PAUSE=2
+uint8 RESUME=3
+uint8 STOP=4
+uint8 RESET=5      # FAULT → IDLE
+
+uint8 command
+uint8 traj_id      # 仅 LOAD 时有效
+---
+bool success
+string message
+uint8 traj_state
