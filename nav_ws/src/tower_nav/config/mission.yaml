@@ -1,0 +1,15 @@
+# 任务与异常管理参数
+exception_node:
+  ros__parameters:
+    imu_timeout: 2.0            # IMU 心跳超时 s(WSL 调度抖动裕量)
+    encoder_timeout: 2.0        # 编码器心跳超时 s
+    pose_timeout: 2.0           # 定位位姿超时 s
+    lateral_dev_threshold: 0.30 # 横向偏差阈值 m
+    lateral_dev_hold: 0.3       # 偏差持续时长 s
+    mission_timeout: 1200.0     # 任务超时 s
+    startup_grace: 3.0          # 启动宽限期 s
+
+trajectory_node:
+  ros__parameters:
+    max_point_gap: 1.0          # 轨迹相邻点最大间距 m
+    goal_tolerance: 0.15        # 到点判定距离 m

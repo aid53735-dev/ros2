@@ -1,0 +1,14 @@
+# 定位融合参数
+localization_node:
+  ros__parameters:
+    wheel_radius: 0.08          # 轮半径 m(与仿真一致)
+    wheel_separation: 0.40      # 轮距 m
+    heading_alpha: 0.98         # 互补滤波 IMU 航向权重
+    sensor_timeout: 2.0         # 传感器超时阈值 s(WSL 环境调度抖动裕量)
+    cov_diverge_threshold: 5.0  # 位置协方差发散阈值 m^2
+    pos_noise_rate: 1.0e-4      # 位置过程噪声速率
+    yaw_noise_rate: 1.0e-6      # 航向过程噪声速率
+    output_rate: 50.0           # /nav/pose 输出频率 Hz
+    initial_x: 0.0
+    initial_y: 20.0
+    initial_yaw: 0.0

@@ -1,0 +1,14 @@
+# 导航控制器参数
+controller_node:
+  ros__parameters:
+    k_y: 1.2               # 横向误差增益
+    k_theta: 1.8            # 航向误差增益
+    max_linear_vel: 0.30    # 最大线速度 m/s
+    max_angular_vel: 0.60   # 最大角速度 rad/s
+    max_linear_acc: 0.30    # 最大线加速度 m/s^2
+    max_angular_acc: 1.20   # 最大角加速度 rad/s^2
+    max_wheel_vel: 5.0      # 轮速上限 rad/s
+    wheel_radius: 0.08
+    wheel_separation: 0.40
+    control_rate: 50.0      # 控制频率 Hz
+    reference_timeout: 0.5  # 参考超时 s
