@@ -1,0 +1,15 @@
+# 仿真参数
+tower_nav_sim:
+  ros__parameters:
+    wheel_separation: 0.40
+    wheel_radius: 0.08
+    imu_gyro_noise_std: 0.002   # 陀螺噪声 rad/s
+    imu_gyro_bias: 0.001        # 陀螺零偏 rad/s
+    imu_yaw_noise_std: 0.002    # 姿态噪声 rad
+    encoder_noise_std: 0.001    # 编码器噪声 rad/s
+    noise_seed: 42
+    step_rate: 100.0            # 积分频率 Hz
+    sensor_rate: 100.0          # 传感器发布频率 Hz
+    initial_x: 0.0
+    initial_y: 20.0
+    initial_yaw: 0.0

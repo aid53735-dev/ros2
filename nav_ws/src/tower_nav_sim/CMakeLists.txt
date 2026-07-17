@@ -19,10 +19,32 @@ find_package(tf2 REQUIRED)
 find_package(tf2_ros REQUIRED)
 find_package(tower_nav_msgs REQUIRED)
 
-# 仿真节点将在 T06 中添加
+# 仿真核心库(纯逻辑,可单测)
+add_library(diff_drive_sim_core src/diff_drive_sim.cpp)
+target_include_directories(diff_drive_sim_core PUBLIC
+  $<BUILD_INTERFACE:${CMAKE_CURRENT_SOURCE_DIR}/include>
+  $<INSTALL_INTERFACE:include>
+)
+
+# 仿真节点
+add_executable(sim_node src/sim_node.cpp)
+target_link_libraries(sim_node diff_drive_sim_core)
+ament_target_dependencies(sim_node
+  rclcpp std_msgs std_srvs sensor_msgs geometry_msgs nav_msgs tf2 tf2_ros)
+
+install(TARGETS diff_drive_sim_core
+  ARCHIVE DESTINATION lib
+  LIBRARY DESTINATION lib
+)
+install(TARGETS sim_node DESTINATION lib/${PROJECT_NAME})
+install(DIRECTORY include/ DESTINATION include)
+install(DIRECTORY config DESTINATION share/${PROJECT_NAME})
 
 if(BUILD_TESTING)
   find_package(ament_cmake_gtest REQUIRED)
+
+  ament_add_gtest(test_diff_drive_sim test/test_diff_drive_sim.cpp)
+  target_link_libraries(test_diff_drive_sim diff_drive_sim_core)
 endif()
 
 ament_package()
