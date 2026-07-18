@@ -1,0 +1,23 @@
+# 备选塔筒参数配置(120 m 四段锥形塔,用于 T18 参数更换验证)
+# 与默认 tower.yaml 相比:总高、直径、分段数均不同;不改任何代码即可切换。
+tower:
+  total_height: 120.0       # 塔筒总高 m
+  bottom_diameter: 6.0      # 底部直径 m
+  top_diameter: 3.0         # 顶部直径 m
+  segments:                 # 锥形分段,必须连续覆盖 0 ~ total_height
+    - start_height: 0.0
+      end_height: 40.0
+      bottom_diameter: 6.0
+      top_diameter: 5.2
+    - start_height: 40.0
+      end_height: 70.0
+      bottom_diameter: 5.2
+      top_diameter: 4.4
+    - start_height: 70.0
+      end_height: 100.0
+      bottom_diameter: 4.4
+      top_diameter: 3.6
+    - start_height: 100.0
+      end_height: 120.0
+      bottom_diameter: 3.6
+      top_diameter: 3.0

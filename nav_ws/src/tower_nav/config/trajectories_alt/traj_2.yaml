@@ -1,0 +1,6009 @@
+trajectory:
+  id: 2
+  description: 竖直上升 12.0m → 72.0m
+  points:
+  - x: 1.0
+    y: 12.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 12.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 12.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 12.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 12.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 12.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 12.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 12.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 12.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 12.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 12.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 12.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 12.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 12.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 12.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 12.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 12.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 12.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 12.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 12.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 13.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 13.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 13.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 13.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 13.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 13.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 13.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 13.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 13.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 13.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 13.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 13.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 13.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 13.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 13.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 13.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 13.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 13.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 13.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 13.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 14.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 14.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 14.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 14.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 14.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 14.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 14.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 14.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 14.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 14.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 14.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 14.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 14.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 14.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 14.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 14.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 14.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 14.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 14.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 14.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 15.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 15.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 15.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 15.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 15.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 15.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 15.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 15.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 15.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 15.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 15.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 15.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 15.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 15.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 15.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 15.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 15.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 15.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 15.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 15.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 16.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 16.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 16.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 16.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 16.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 16.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 16.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 16.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 16.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 16.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 16.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 16.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 16.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 16.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 16.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 16.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 16.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 16.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 16.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 16.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 17.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 17.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 17.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 17.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 17.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 17.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 17.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 17.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 17.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 17.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 17.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 17.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 17.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 17.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 17.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 17.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 17.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 17.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 17.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 17.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 18.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 18.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 18.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 18.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 18.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 18.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 18.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 18.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 18.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 18.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 18.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 18.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 18.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 18.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 18.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 18.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 18.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 18.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 18.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 18.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 19.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 19.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 19.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 19.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 19.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 19.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 19.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 19.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 19.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 19.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 19.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 19.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 19.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 19.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 19.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 19.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 19.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 19.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 19.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 19.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 20.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 20.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 20.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 20.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 20.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 20.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 20.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 20.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 20.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 20.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 20.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 20.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 20.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 20.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 20.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 20.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 20.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 20.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 20.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 20.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 21.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 21.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 21.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 21.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 21.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 21.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 21.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 21.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 21.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 21.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 21.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 21.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 21.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 21.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 21.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 21.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 21.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 21.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 21.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 21.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 22.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 22.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 22.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 22.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 22.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 22.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 22.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 22.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 22.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 22.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 22.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 22.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 22.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 22.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 22.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 22.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 22.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 22.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 22.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 22.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 23.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 23.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 23.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 23.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 23.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 23.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 23.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 23.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 23.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 23.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 23.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 23.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 23.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 23.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 23.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 23.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 23.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 23.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 23.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 23.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 24.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 24.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 24.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 24.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 24.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 24.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 24.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 24.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 24.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 24.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 24.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 24.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 24.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 24.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 24.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 24.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 24.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 24.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 24.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 24.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 25.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 25.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 25.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 25.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 25.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 25.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 25.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 25.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 25.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 25.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 25.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 25.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 25.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 25.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 25.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 25.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 25.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 25.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 25.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 25.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 26.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 26.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 26.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 26.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 26.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 26.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 26.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 26.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 26.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 26.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 26.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 26.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 26.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 26.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 26.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 26.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 26.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 26.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 26.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 26.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 27.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 27.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 27.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 27.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 27.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 27.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 27.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 27.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 27.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 27.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 27.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 27.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 27.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 27.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 27.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 27.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 27.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 27.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 27.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 27.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 28.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 28.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 28.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 28.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 28.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 28.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 28.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 28.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 28.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 28.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 28.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 28.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 28.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 28.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 28.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 28.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 28.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 28.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 28.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 28.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 29.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 29.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 29.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 29.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 29.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 29.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 29.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 29.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 29.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 29.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 29.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 29.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 29.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 29.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 29.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 29.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 29.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 29.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 29.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 29.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 30.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 30.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 30.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 30.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 30.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 30.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 30.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 30.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 30.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 30.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 30.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 30.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 30.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 30.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 30.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 30.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 30.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 30.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 30.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 30.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 31.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 31.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 31.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 31.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 31.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 31.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 31.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 31.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 31.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 31.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 31.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 31.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 31.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 31.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 31.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 31.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 31.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 31.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 31.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 31.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 32.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 32.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 32.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 32.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 32.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 32.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 32.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 32.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 32.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 32.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 32.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 32.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 32.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 32.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 32.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 32.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 32.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 32.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 32.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 32.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 33.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 33.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 33.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 33.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 33.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 33.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 33.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 33.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 33.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 33.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 33.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 33.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 33.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 33.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 33.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 33.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 33.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 33.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 33.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 33.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 34.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 34.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 34.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 34.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 34.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 34.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 34.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 34.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 34.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 34.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 34.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 34.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 34.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 34.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 34.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 34.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 34.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 34.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 34.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 34.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 35.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 35.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 35.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 35.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 35.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 35.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 35.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 35.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 35.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 35.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 35.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 35.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 35.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 35.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 35.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 35.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 35.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 35.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 35.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 35.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 36.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 36.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 36.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 36.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 36.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 36.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 36.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 36.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 36.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 36.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 36.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 36.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 36.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 36.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 36.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 36.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 36.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 36.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 36.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 36.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 37.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 37.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 37.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 37.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 37.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 37.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 37.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 37.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 37.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 37.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 37.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 37.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 37.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 37.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 37.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 37.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 37.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 37.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 37.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 37.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 38.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 38.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 38.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 38.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 38.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 38.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 38.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 38.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 38.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 38.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 38.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 38.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 38.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 38.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 38.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 38.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 38.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 38.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 38.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 38.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 39.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 39.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 39.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 39.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 39.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 39.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 39.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 39.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 39.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 39.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 39.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 39.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 39.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 39.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 39.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 39.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 39.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 39.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 39.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 39.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 40.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 40.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 40.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 40.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 40.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 40.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 40.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 40.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 40.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 40.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 40.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 40.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 40.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 40.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 40.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 40.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 40.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 40.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 40.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 40.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 41.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 41.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 41.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 41.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 41.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 41.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 41.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 41.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 41.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 41.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 41.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 41.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 41.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 41.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 41.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 41.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 41.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 41.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 41.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 41.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 42.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 42.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 42.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 42.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 42.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 42.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 42.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 42.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 42.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 42.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 42.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 42.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 42.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 42.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 42.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 42.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 42.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 42.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 42.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 42.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 43.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 43.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 43.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 43.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 43.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 43.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 43.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 43.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 43.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 43.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 43.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 43.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 43.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 43.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 43.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 43.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 43.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 43.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 43.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 43.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 44.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 44.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 44.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 44.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 44.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 44.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 44.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 44.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 44.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 44.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 44.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 44.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 44.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 44.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 44.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 44.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 44.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 44.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 44.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 44.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 45.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 45.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 45.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 45.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 45.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 45.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 45.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 45.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 45.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 45.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 45.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 45.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 45.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 45.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 45.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 45.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 45.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 45.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 45.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 45.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 46.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 46.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 46.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 46.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 46.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 46.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 46.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 46.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 46.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 46.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 46.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 46.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 46.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 46.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 46.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 46.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 46.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 46.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 46.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 46.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 47.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 47.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 47.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 47.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 47.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 47.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 47.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 47.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 47.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 47.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 47.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 47.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 47.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 47.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 47.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 47.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 47.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 47.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 47.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 47.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 48.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 48.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 48.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 48.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 48.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 48.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 48.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 48.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 48.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 48.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 48.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 48.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 48.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 48.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 48.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 48.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 48.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 48.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 48.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 48.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 49.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 49.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 49.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 49.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 49.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 49.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 49.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 49.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 49.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 49.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 49.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 49.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 49.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 49.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 49.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 49.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 49.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 49.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 49.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 49.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 50.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 50.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 50.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 50.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 50.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 50.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 50.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 50.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 50.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 50.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 50.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 50.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 50.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 50.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 50.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 50.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 50.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 50.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 50.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 50.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 51.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 51.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 51.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 51.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 51.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 51.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 51.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 51.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 51.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 51.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 51.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 51.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 51.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 51.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 51.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 51.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 51.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 51.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 51.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 51.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 52.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 52.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 52.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 52.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 52.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 52.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 52.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 52.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 52.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 52.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 52.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 52.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 52.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 52.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 52.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 52.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 52.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 52.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 52.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 52.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 53.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 53.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 53.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 53.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 53.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 53.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 53.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 53.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 53.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 53.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 53.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 53.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 53.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 53.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 53.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 53.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 53.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 53.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 53.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 53.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 54.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 54.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 54.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 54.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 54.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 54.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 54.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 54.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 54.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 54.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 54.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 54.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 54.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 54.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 54.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 54.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 54.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 54.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 54.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 54.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 55.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 55.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 55.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 55.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 55.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 55.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 55.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 55.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 55.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 55.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 55.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 55.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 55.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 55.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 55.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 55.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 55.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 55.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 55.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 55.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 56.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 56.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 56.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 56.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 56.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 56.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 56.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 56.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 56.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 56.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 56.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 56.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 56.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 56.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 56.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 56.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 56.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 56.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 56.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 56.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 57.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 57.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 57.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 57.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 57.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 57.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 57.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 57.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 57.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 57.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 57.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 57.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 57.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 57.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 57.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 57.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 57.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 57.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 57.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 57.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 58.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 58.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 58.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 58.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 58.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 58.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 58.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 58.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 58.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 58.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 58.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 58.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 58.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 58.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 58.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 58.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 58.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 58.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 58.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 58.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 59.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 59.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 59.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 59.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 59.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 59.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 59.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 59.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 59.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 59.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 59.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 59.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 59.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 59.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 59.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 59.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 59.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 59.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 59.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 59.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 60.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 60.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 60.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 60.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 60.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 60.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 60.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 60.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 60.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 60.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 60.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 60.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 60.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 60.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 60.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 60.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 60.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 60.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 60.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 60.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 61.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 61.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 61.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 61.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 61.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 61.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 61.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 61.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 61.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 61.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 61.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 61.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 61.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 61.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 61.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 61.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 61.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 61.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 61.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 61.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 62.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 62.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 62.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 62.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 62.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 62.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 62.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 62.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 62.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 62.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 62.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 62.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 62.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 62.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 62.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 62.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 62.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 62.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 62.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 62.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 63.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 63.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 63.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 63.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 63.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 63.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 63.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 63.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 63.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 63.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 63.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 63.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 63.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 63.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 63.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 63.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 63.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 63.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 63.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 63.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 64.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 64.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 64.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 64.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 64.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 64.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 64.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 64.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 64.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 64.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 64.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 64.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 64.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 64.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 64.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 64.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 64.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 64.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 64.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 64.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 65.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 65.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 65.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 65.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 65.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 65.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 65.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 65.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 65.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 65.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 65.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 65.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 65.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 65.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 65.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 65.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 65.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 65.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 65.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 65.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 66.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 66.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 66.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 66.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 66.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 66.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 66.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 66.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 66.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 66.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 66.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 66.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 66.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 66.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 66.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 66.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 66.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 66.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 66.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 66.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 67.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 67.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 67.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 67.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 67.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 67.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 67.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 67.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 67.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 67.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 67.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 67.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 67.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 67.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 67.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 67.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 67.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 67.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 67.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 67.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 68.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 68.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 68.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 68.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 68.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 68.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 68.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 68.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 68.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 68.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 68.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 68.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 68.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 68.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 68.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 68.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 68.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 68.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 68.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 68.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 69.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 69.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 69.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 69.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 69.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 69.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 69.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 69.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 69.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 69.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 69.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 69.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 69.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 69.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 69.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 69.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 69.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 69.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 69.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 69.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 70.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 70.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 70.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 70.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 70.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 70.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 70.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 70.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 70.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 70.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 70.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 70.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 70.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 70.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 70.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 70.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 70.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 70.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 70.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 70.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 71.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 71.05
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 71.1
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 71.15
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 71.2
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 71.25
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 71.3
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 71.35
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 71.4
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 71.45
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 71.5
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 71.55
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 71.6
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 71.65
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 71.7
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 71.75
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 71.8
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 71.85
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 71.9
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 71.95
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0
+  - x: 1.0
+    y: 72.0
+    yaw: 1.570796
+    v_ref: 0.15
+    curvature: 0.0

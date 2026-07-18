@@ -1,0 +1,61 @@
+[
+  {
+    "traj_id": 1,
+    "description": "定高环向一圈 h=30.0m 周长=16.96m",
+    "length_m": 16.965,
+    "n_points": 341,
+    "checks": {
+      "switch_guard": "RUNNING 中 START 被拒: START 非法:当前状态 EXECUTING",
+      "stop": "STOP → ABORTED 正常",
+      "restart_after_stop": "ABORTED 后重新 START 正常",
+      "pause_zero_vel": "暂停期间 |v|max=0.00e+00 |w|max=0.00e+00",
+      "resume": "断点 25.0% 恢复后继续推进"
+    },
+    "passed": true,
+    "max_lateral_error_m": 0.0001,
+    "elapsed_s": 123.8,
+    "final_fault_code": 0
+  },
+  {
+    "traj_id": 2,
+    "description": "竖直上升 12.0m → 72.0m",
+    "length_m": 60.0,
+    "n_points": 1201,
+    "checks": {
+      "pause_zero_vel": "暂停期间 |v|max=0.00e+00 |w|max=0.00e+00",
+      "resume": "断点 25.0% 恢复后继续推进"
+    },
+    "passed": true,
+    "max_lateral_error_m": 0.0001,
+    "elapsed_s": 410.7,
+    "final_fault_code": 0
+  },
+  {
+    "traj_id": 3,
+    "description": "之字形覆盖 18.0~54.0m 宽9.1m 4行",
+    "length_m": 81.49,
+    "n_points": 1631,
+    "checks": {
+      "pause_zero_vel": "暂停期间 |v|max=0.00e+00 |w|max=0.00e+00",
+      "resume": "断点 25.0% 恢复后继续推进"
+    },
+    "passed": true,
+    "max_lateral_error_m": 0.2136,
+    "elapsed_s": 559.9,
+    "final_fault_code": 0
+  },
+  {
+    "traj_id": 4,
+    "description": "矩形巡检 7.8×24.0m",
+    "length_m": 63.666,
+    "n_points": 1275,
+    "checks": {
+      "pause_zero_vel": "暂停期间 |v|max=0.00e+00 |w|max=0.00e+00",
+      "resume": "断点 25.0% 恢复后继续推进"
+    },
+    "passed": true,
+    "max_lateral_error_m": 0.2151,
+    "elapsed_s": 437.4,
+    "final_fault_code": 0
+  }
+]

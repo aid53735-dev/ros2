@@ -8,8 +8,10 @@
      检查暂停零速 → RESUME → 跟踪至 COMPLETED;
   3. 记录最大横向误差、完成用时等实测数据,输出 JSON。
 
-用法:run_all_trajectories.py <输出.json> [traj_ids...]
+用法:run_all_trajectories.py <输出.json> [traj_ids...] [--traj-dir DIR]
+     --traj-dir 指定备选轨迹目录(T18 塔筒参数更换验证,零代码修改)。
 """
+import argparse
 import json
 import math
 import os
@@ -119,15 +121,18 @@ class Runner:
         return False
 
 
-def run_one(traj_id, meta, extra_checks):
+def run_one(traj_id, meta, extra_checks, traj_dir=None):
     """运行一条轨迹,返回实测记录 dict。"""
     rec = {"traj_id": traj_id, "description": meta["description"],
            "length_m": round(meta["length"], 3), "n_points": meta["n_points"],
            "checks": {}, "passed": False}
+    cmd = ["ros2", "launch", "tower_nav", "bringup.launch.py",
+           f"initial_x:={meta['x0']}", f"initial_y:={meta['y0']}",
+           f"initial_yaw:={meta['yaw0']}"]
+    if traj_dir:
+        cmd.append(f"trajectory_dir:={traj_dir}")
     launch = subprocess.Popen(
-        ["ros2", "launch", "tower_nav", "bringup.launch.py",
-         f"initial_x:={meta['x0']}", f"initial_y:={meta['y0']}",
-         f"initial_yaw:={meta['yaw0']}"],
+        cmd,
         stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL,
         preexec_fn=os.setsid)
     r = Runner(traj_id)
@@ -199,11 +204,20 @@ def run_one(traj_id, meta, extra_checks):
 
 
 def main():
-    out_path = sys.argv[1]
-    ids = [int(a) for a in sys.argv[2:]] or [1, 2, 3, 4]
-    from ament_index_python.packages import get_package_share_directory
-    traj_dir = os.path.join(
-        get_package_share_directory("tower_nav"), "config", "trajectories")
+    ap = argparse.ArgumentParser()
+    ap.add_argument("out_path")
+    ap.add_argument("ids", nargs="*", type=int)
+    ap.add_argument("--traj-dir", default=None,
+                    help="备选轨迹目录(默认用包内 config/trajectories)")
+    args = ap.parse_args()
+    out_path = args.out_path
+    ids = args.ids or [1, 2, 3, 4]
+    if args.traj_dir:
+        traj_dir = args.traj_dir
+    else:
+        from ament_index_python.packages import get_package_share_directory
+        traj_dir = os.path.join(
+            get_package_share_directory("tower_nav"), "config", "trajectories")
 
     rclpy.init()
     results = []
@@ -211,7 +225,8 @@ def main():
         meta = traj_meta(traj_dir, tid)
         print(f"=== 轨迹 {tid}: {meta['description']} "
               f"(长度 {meta['length']:.1f} m)===", flush=True)
-        rec = run_one(tid, meta, extra_checks=(tid == ids[0]))
+        rec = run_one(tid, meta, extra_checks=(tid == ids[0]),
+                      traj_dir=args.traj_dir)
         results.append(rec)
         print(json.dumps(rec, ensure_ascii=False, indent=2), flush=True)
     rclpy.shutdown()
