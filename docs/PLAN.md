@@ -70,8 +70,8 @@
   产出物:test/integration/test_mission_flow.py:sim+全栈 → START 轨迹1 → 断言最大横向误差<阈值、PAUSE 速度为零、RESUME 继续、急停后 /cmd_vel=0 且故障码正确。
   完成判据:`colcon test` 集成测试通过。
 
-- [ ] **T17 四条轨迹全流程闭环验证**
-  产出物:tools/run_all_trajectories.sh 验证脚本 + 数据记录。
+- [x] **T17 四条轨迹全流程闭环验证**
+  产出物:tools/run_all_trajectories.py 验证脚本 + docs/data/t17_trajectories.json 数据记录。
   完成判据:4 条轨迹均完成 启动→跟踪→完成;切换/暂停/恢复/停止可用;记录各轨迹最大横向误差。
 
 - [ ] **T18 塔筒参数更换验证**

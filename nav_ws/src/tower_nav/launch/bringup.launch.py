@@ -18,6 +18,15 @@ def generate_launch_description():
     config = os.path.join(pkg_share, "config")
     use_sim = LaunchConfiguration("use_sim")
     traj_dir_arg = LaunchConfiguration("trajectory_dir")
+    initial_x = LaunchConfiguration("initial_x")
+    initial_y = LaunchConfiguration("initial_y")
+    initial_yaw = LaunchConfiguration("initial_yaw")
+    # 初始位姿同时下发给仿真与定位(各轨迹起点不同,由上层按轨迹指定)
+    initial_pose = {
+        "initial_x": initial_x,
+        "initial_y": initial_y,
+        "initial_yaw": initial_yaw,
+    }
 
     return LaunchDescription([
         DeclareLaunchArgument(
@@ -26,13 +35,22 @@ def generate_launch_description():
             "trajectory_dir",
             default_value=os.path.join(config, "trajectories"),
             description="轨迹文件目录"),
+        DeclareLaunchArgument(
+            "initial_x", default_value="0.0", description="初始周向弧长 m"),
+        DeclareLaunchArgument(
+            "initial_y", default_value="20.0", description="初始高度 m"),
+        DeclareLaunchArgument(
+            "initial_yaw", default_value="0.0", description="初始航向 rad"),
 
         # 仿真(可选)
         Node(
             package="tower_nav_sim",
             executable="sim_node",
             name="tower_nav_sim",
-            parameters=[os.path.join(sim_share, "config", "sim.yaml")],
+            parameters=[
+                os.path.join(sim_share, "config", "sim.yaml"),
+                initial_pose,
+            ],
             condition=IfCondition(use_sim),
             output="screen",
         ),
@@ -42,7 +60,10 @@ def generate_launch_description():
             package="tower_nav",
             executable="localization_node",
             name="localization_node",
-            parameters=[os.path.join(config, "localization.yaml")],
+            parameters=[
+                os.path.join(config, "localization.yaml"),
+                initial_pose,
+            ],
             output="screen",
         ),
 
