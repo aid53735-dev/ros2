@@ -86,6 +86,6 @@
   产出物:docs/README.md、ARCHITECTURE.md、INTERFACE.md、DEPLOY.md。
   完成判据:四份文档齐全、与实现一致。
 
-- [ ] **T21 验收报告与最终迭代**
+- [x] **T21 验收报告与最终迭代**
   产出物:docs/ACCEPTANCE_REPORT.md,逐条记录五项验收标准实测数据。
   完成判据:五项验收标准全部达标(含 colcon build 零警告、colcon test 全过)。
