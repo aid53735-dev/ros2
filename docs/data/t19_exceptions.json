@@ -1,0 +1,35 @@
+[
+  {
+    "scenario": "imu_stop",
+    "description": "停发 IMU",
+    "checks": {
+      "fault_code": "IMU 停发 → 故障码 2(IMU_TIMEOUT=2)",
+      "mission_error": "任务状态进入 ERROR(6)",
+      "safe_stop": "安全停车 |v|max=0.00e+00 |w|max=0.00e+00",
+      "recovery": "RESET 后重新 START,跟踪恢复推进"
+    },
+    "passed": true
+  },
+  {
+    "scenario": "lateral_dev",
+    "description": "横向偏差超阈(扰动推离)",
+    "checks": {
+      "fault_code": "扰动推离 → 故障码 6(LATERAL_DEV),触发时 |e_y|=0.489 m",
+      "mission_error": "任务状态进入 ERROR(6)",
+      "safe_stop": "安全停车 |v|max=0.00e+00 |w|max=0.00e+00",
+      "recovery": "RESET + 归位后重新 START,跟踪恢复推进"
+    },
+    "passed": true
+  },
+  {
+    "scenario": "estop",
+    "description": "急停触发与保护",
+    "checks": {
+      "fault_code": "急停 → 故障码 7(ESTOP=7)",
+      "safe_stop": "急停零速 |v|max=0.00e+00 |w|max=0.00e+00",
+      "reset_guard": "急停未解除 RESET 被拒: 复位失败:故障未清除(急停可能仍激活)",
+      "recovery": "RESET 后重新 START,跟踪恢复推进"
+    },
+    "passed": true
+  }
+]
